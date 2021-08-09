@@ -36,7 +36,7 @@
     "@sentry/integrations": "^5.27.6",
     "@sentry/node": "^5.28.0",
     "@thesharks/jagtag-js": "^1.1.0",
-    "@thesharks/tyr": "^1.2.1",
+    "@thesharks/tyr": "^2.1.2",
     "chalk": "^4.1.0",
     "date-fns": "^2.16.1",
     "dotenv": "^8.2.0",
