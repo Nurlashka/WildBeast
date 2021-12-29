@@ -38,7 +38,7 @@
     "@thesharks/jagtag-js": "^1.1.0",
     "@thesharks/tyr": "^1.2.1",
     "chalk": "^4.1.0",
-    "date-fns": "^2.16.1",
+    "date-fns": "^2.28.0",
     "dotenv": "^8.2.0",
     "eris": "^0.14.0",
     "eventemitter3": "^4.0.7",
